@@ -1,4 +1,4 @@
-# Welcome to Stitch
+# Stitch 1.0.0-beta
 
 Stitch is a lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. This is an early beta - feedback welcome.
 
@@ -6,6 +6,8 @@ Use the built-in components, or build your own on top of Stitch and share them w
 
 ## Demo
 Download the sample Framer prototype with its associated .sketch file from this repo. You can play with the sample prototype [here](http://share.framerjs.com/tfj7tzovbbwn/).
+
+[![Stitch Sample](/Stitch Sample.png)](http://share.framerjs.com/tfj7tzovbbwn/)
 
 ## Usage
 
