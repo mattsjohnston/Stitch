@@ -135,94 +135,94 @@ window.__imported__["Stitch Sample/layers.json.js"] = [
             "children" : [
               {
                 "maskFrame" : null,
-                "id" : "A1C5C47C-4A24-401B-B927-58ABBE71546D",
-                "visible" : true,
                 "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "A1C5C47C-4A24-401B-B927-58ABBE71546D",
+                    "visible" : true,
+                    "children" : [
 
-                ],
-                "image" : {
-                  "path" : "images\/Layer-off-A1C5C47C-4A24-401B-B927-58ABBE71546D.png",
-                  "frame" : {
-                    "y" : 390,
-                    "x" : 391,
-                    "width" : 12,
-                    "height" : 12
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-off-A1C5C47C-4A24-401B-B927-58ABBE71546D.png",
+                      "frame" : {
+                        "y" : 390,
+                        "x" : 391,
+                        "width" : 12,
+                        "height" : 12
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 390,
+                      "x" : 391,
+                      "width" : 12,
+                      "height" : 12
+                    },
+                    "name" : "off"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "3B82923B-280A-4593-A171-FAE221AEAED9",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-on-3B82923B-280A-4593-A171-FAE221AEAED9.png",
+                      "frame" : {
+                        "y" : 390,
+                        "x" : 347,
+                        "width" : 12,
+                        "height" : 12
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 390,
+                      "x" : 347,
+                      "width" : 12,
+                      "height" : 12
+                    },
+                    "name" : "on"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "07072A8D-4717-496D-919C-C33A6DD81591",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-off-07072A8D-4717-496D-919C-C33A6DD81591.png",
+                      "frame" : {
+                        "y" : 390,
+                        "x" : 369,
+                        "width" : 12,
+                        "height" : 12
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : 390,
+                      "x" : 369,
+                      "width" : 12,
+                      "height" : 12
+                    },
+                    "name" : "off"
                   }
-                },
-                "imageType" : "png",
-                "layerFrame" : {
-                  "y" : 390,
-                  "x" : 391,
-                  "width" : 12,
-                  "height" : 12
-                },
-                "name" : "off"
-              },
-              {
-                "maskFrame" : null,
-                "id" : "3B82923B-280A-4593-A171-FAE221AEAED9",
+                ],
+                "id" : "D05948EB-DBB4-47CE-9169-3ED807D270D9",
                 "visible" : true,
-                "children" : [
-
-                ],
-                "image" : {
-                  "path" : "images\/Layer-on-3B82923B-280A-4593-A171-FAE221AEAED9.png",
-                  "frame" : {
-                    "y" : 390,
-                    "x" : 347,
-                    "width" : 12,
-                    "height" : 12
-                  }
-                },
                 "imageType" : "png",
                 "layerFrame" : {
                   "y" : 390,
                   "x" : 347,
-                  "width" : 12,
+                  "width" : 56,
                   "height" : 12
                 },
-                "name" : "on"
+                "name" : "paginatedCarouselExample___scrollIndicators"
               },
-              {
-                "maskFrame" : null,
-                "id" : "07072A8D-4717-496D-919C-C33A6DD81591",
-                "visible" : true,
-                "children" : [
-
-                ],
-                "image" : {
-                  "path" : "images\/Layer-off-07072A8D-4717-496D-919C-C33A6DD81591.png",
-                  "frame" : {
-                    "y" : 390,
-                    "x" : 369,
-                    "width" : 12,
-                    "height" : 12
-                  }
-                },
-                "imageType" : "png",
-                "layerFrame" : {
-                  "y" : 390,
-                  "x" : 369,
-                  "width" : 12,
-                  "height" : 12
-                },
-                "name" : "off"
-              }
-            ],
-            "id" : "D05948EB-DBB4-47CE-9169-3ED807D270D9",
-            "visible" : true,
-            "imageType" : "png",
-            "layerFrame" : {
-              "y" : 390,
-              "x" : 347,
-              "width" : 56,
-              "height" : 12
-            },
-            "name" : "paginatedCarouselExample___scrollIndicators"
-          },
-          {
-            "maskFrame" : null,
-            "children" : [
               {
                 "maskFrame" : null,
                 "id" : "908DAA52-DE79-47FC-A5D2-A168DF40371C",
