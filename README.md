@@ -7,7 +7,11 @@ Use the built-in components (currently only `scroll`), or build your own on top 
 This is an early beta - feedback welcome. 
 
 ## Demo
-Download the sample Framer prototype with its associated .sketch file from this repo. You can play with the [sample Framer prototype](http://share.framerjs.com/tfj7tzovbbwn/), or download both the Framer and Sketch files below.
+Checkout the Framer playground prototype - all of the interaction was added automatically with Stitch using only folder names from Sketch.
+
+[![Sketch Playground](/Stitch Playground.png)](http://share.framerjs.com/14cxtooumuwv/)
+
+You can download all the source files below:
 
 <p align="center">
   <a href="https://github.com/mattsjohnston/stitch/archive/master.zip"><img src="Download Playground.png" width="431" /></a>
