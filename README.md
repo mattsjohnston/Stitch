@@ -9,7 +9,9 @@ This is an early beta - feedback welcome.
 ## Demo
 Download the sample Framer prototype with its associated .sketch file from this repo. You can play with the sample prototype [here](http://share.framerjs.com/tfj7tzovbbwn/).
 
-[![Stitch Playground](/Download Playground.png)](https://codeload.github.com/mattsjohnston/stitch/archive/master.zip)
+<p align="center">
+  <a href="https://codeload.github.com/mattsjohnston/stitch/archive/master.zip"><img src="Download Playground.png" width="431" /></a>
+</p>
 
 ## Usage
 
