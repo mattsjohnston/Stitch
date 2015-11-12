@@ -91,6 +91,10 @@ This is an object of all the parameters set by the folder name in Sketch. In our
 
 ### Scroll
 Use the [Stitch Sample](/Stitch Sample.sketch) Sketch file as a guide. More documentation to come.
+- Vertical and horizontal scrolling
+- Paginate sub-folders
+- Pagination indicators
+- Reference the full-length content from another artboard
 
 ## Authors
 Matt Johnston - [@mattsjohnston](https://twitter.com/mattsjohnston)
