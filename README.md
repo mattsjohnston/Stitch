@@ -91,3 +91,6 @@ This is an object of all the parameters set by the folder name in Sketch. In our
 
 ### Scroll
 Use the [Stitch Sample](/Stitch Sample.sketch) Sketch file as a guide. More documentation to come.
+
+## Authors
+Matt Johnston - [@mattsjohnston](https://twitter.com/mattsjohnston)
