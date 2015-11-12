@@ -1,8 +1,10 @@
 # Stitch 1.0.0-beta
 
-Stitch is a lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs. This is an early beta - feedback welcome.
+Stitch is a lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 
-Use the built-in components, or build your own on top of Stitch and share them with the community!
+Use the built-in components (currently only `scroll`), or build your own on top of Stitch and share them with the community!
+
+This is an early beta - feedback welcome. 
 
 ## Demo
 Download the sample Framer prototype with its associated .sketch file from this repo. You can play with the sample prototype [here](http://share.framerjs.com/tfj7tzovbbwn/).
@@ -84,3 +86,15 @@ This is an object of all the parameters set by the folder name in Sketch. In our
   start: on
 }
 ```
+
+## Components
+
+### Scroll
+Use the [Stitch Sample](/Stitch Sample.sketch) Sketch file as a guide. More documentation to come.
+- Vertical and horizontal scrolling
+- Paginate sub-folders
+- Pagination indicators
+- Reference the full-length content from another artboard
+
+## Authors
+Matt Johnston - [@mattsjohnston](https://twitter.com/mattsjohnston)
