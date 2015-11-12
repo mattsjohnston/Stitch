@@ -7,7 +7,7 @@ Use the built-in components (currently only `scroll`), or build your own on top 
 This is an early beta - feedback welcome. 
 
 ## Demo
-Checkout the Framer playground prototype - all of the interaction was added automatically with Stitch using only folder names from Sketch.
+Checkout the [Framer playground prototype](http://share.framerjs.com/14cxtooumuwv/) - all of the interaction was added automatically with Stitch using only folder names from Sketch.
 
 [![Sketch Playground](/Stitch Playground.png)](http://share.framerjs.com/14cxtooumuwv/)
 
